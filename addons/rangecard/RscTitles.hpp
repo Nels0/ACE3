@@ -192,7 +192,7 @@ class ACE_RangeCard_Dialog {
         class FOOTNOTE_TEXT_2: FOOTNOTE_TEXT_1 {
             idc=770021;
             y="safezoneY+1.72431+0.024";
-            text="and load with optic mounted 1.5'' above line of bore.";
+            text="and load with optic mounted 3.81 cm above line of bore.";
         };
     };
 };
